@@ -1,1 +1,7 @@
-
+Pros and Cons of Agile: 
+    Pros:
+        1. More resilient to change (scope of the project, implementation)
+        2. Breaks down a project to several stages, employ continuous integration
+    Cons:
+        1. Long term projects suffer from incremental delivery (not all projects are Agile-able!)
+        2. Inadequate documentation (e.g. dev team moving to different projects every sprints)
