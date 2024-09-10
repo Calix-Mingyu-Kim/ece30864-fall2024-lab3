@@ -21,3 +21,12 @@ Types of meetings during a sprint cycle
         - Occurs at the end of the sprint
         - Discuss work complete and move incomplete work to backlog
 
+Difference between Epic, Story, Bug, and Task issue types in JIRA
+Epic
+    Captures a large body of work that can be broken down into several smaller stories.
+Story
+    A software system requirement that is expressed in a few short sentences.
+Bug
+    A problem that impede the progress or functionality of work.
+Task
+    Represents work that needs to be done.
