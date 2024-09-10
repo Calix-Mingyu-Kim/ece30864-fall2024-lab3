@@ -5,3 +5,8 @@ Pros and Cons of Agile:
     Cons:
         1. Long term projects suffer from incremental delivery (not all projects are Agile-able!)
         2. Inadequate documentation (e.g. dev team moving to different projects every sprints)
+
+Roles of Scrum Master and Product Owner
+    Scrum Master: manage all scrum related tasks (JIRA tooling, facilitating sprints and meetings, standups)
+    Product Owner: Sets direction for the team, handles release management and stakeholder management. 
+
